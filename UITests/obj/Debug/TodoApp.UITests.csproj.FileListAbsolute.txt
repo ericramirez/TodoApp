@@ -1,0 +1,9 @@
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\TodoApp.UITests.dll
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\TodoApp.UITests.pdb
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\nunit.framework.dll
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\Xamarin.UITest.dll
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\Xamarin.UITest.xml
+C:\Users\Eric\Documents\TodoApp\UITests\bin\Debug\nunit.framework.xml
+C:\Users\Eric\Documents\TodoApp\UITests\obj\Debug\TodoApp.UITests.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\TodoApp\UITests\obj\Debug\TodoApp.UITests.dll
+C:\Users\Eric\Documents\TodoApp\UITests\obj\Debug\TodoApp.UITests.pdb
