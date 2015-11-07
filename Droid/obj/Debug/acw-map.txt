@@ -2,10 +2,6 @@ TodoApp.Droid.MainActivity, TodoApp.Droid;md5312bd3ba2b53e89954bfadd1ec4ea409.Ma
 TodoApp.Droid.MainActivity, TodoApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5312bd3ba2b53e89954bfadd1ec4ea409.MainActivity
 TodoApp.Droid.MainActivity;md5312bd3ba2b53e89954bfadd1ec4ea409.MainActivity
 todoapp.droid.MainActivity;md5312bd3ba2b53e89954bfadd1ec4ea409.MainActivity
-TodoApp.Droid.TaskListAdapter, TodoApp.Droid;md5312bd3ba2b53e89954bfadd1ec4ea409.TaskListAdapter
-TodoApp.Droid.TaskListAdapter, TodoApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5312bd3ba2b53e89954bfadd1ec4ea409.TaskListAdapter
-TodoApp.Droid.TaskListAdapter;md5312bd3ba2b53e89954bfadd1ec4ea409.TaskListAdapter
-todoapp.droid.TaskListAdapter;md5312bd3ba2b53e89954bfadd1ec4ea409.TaskListAdapter
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;md5a38f23f39c909ee95c77ab5bcf4e7c7f.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a38f23f39c909ee95c77ab5bcf4e7c7f.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;md5a38f23f39c909ee95c77ab5bcf4e7c7f.Snackbar_SnackbarActionClickImplementor

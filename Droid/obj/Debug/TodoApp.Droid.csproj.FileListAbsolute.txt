@@ -27,3 +27,5 @@ C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\res\layout\main.xml
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\R.cs.flag
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\uploadflags.txt
+C:\Users\Eric\Documents\TodoApp\Droid\bin\Debug\SQLite.Net.dll
+C:\Users\Eric\Documents\TodoApp\Droid\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll

@@ -2,6 +2,8 @@ C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\TodoApp.Droid.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\FormsViewGroup.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\Mono.Android.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\SQLite.Net.dll
+C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\SQLite.Net.Platform.XamarinAndroid.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\System.Core.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\System.dll
 C:\Users\Eric\Documents\TodoApp\Droid\obj\Debug\assemblies\System.Xml.dll

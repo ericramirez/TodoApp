@@ -1,11 +1,13 @@
 ﻿<Properties StartupItem="Droid\TodoApp.Droid.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 5 (Lollipop)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Droid\MainActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TodoApp\ViewModel\MainPageViewModel.cs">
     <Files>
-      <File FileName="Droid\Resources\Resource.designer.cs" Line="1" Column="1" />
+      <File FileName="Droid\AndroidSQLite.cs" Line="1" Column="1" />
+      <File FileName="TodoApp\Data\ISQLite.cs" Line="1" Column="1" />
+      <File FileName="TodoApp\Views\MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TodoApp\Views\MainPage.xaml" Line="7" Column="69" />
       <File FileName="TodoApp\TodoApp.cs" Line="1" Column="1" />
-      <File FileName="Droid\MainActivity.cs" Line="46" Column="43" />
-      <File FileName="Droid\TaskListAdapter.cs" Line="50" Column="4" />
+      <File FileName="TodoApp\ViewModel\MainPageViewModel.cs" Line="12" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

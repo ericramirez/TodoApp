@@ -8,3 +8,6 @@ C:\Users\Eric\Documents\TodoApp\TodoApp\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Eric\Documents\TodoApp\TodoApp\obj\Debug\TodoApp.dll
 C:\Users\Eric\Documents\TodoApp\TodoApp\obj\Debug\TodoApp.pdb
 C:\Users\Eric\Documents\TodoApp\TodoApp\obj\Debug\TodoApp.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Documents\TodoApp\TodoApp\bin\Debug\SQLite.Net.dll
+C:\Users\Eric\Documents\TodoApp\TodoApp\obj\Debug\TodoApp.Views.MainPage.xaml.g.cs
+C:\Users\Eric\Documents\TodoApp\TodoApp\obj\Debug\TodoApp.Views.DisplayTasksPage.xaml.g.cs

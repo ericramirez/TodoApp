@@ -81,6 +81,8 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		"TodoApp.Droid.dll",
 		"FormsViewGroup.dll",
+		"SQLite.Net.dll",
+		"SQLite.Net.Platform.XamarinAndroid.dll",
 		"TodoApp.dll",
 		"Xamarin.Android.Support.Design.dll",
 		"Xamarin.Android.Support.v4.dll",
